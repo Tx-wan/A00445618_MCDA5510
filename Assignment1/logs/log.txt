@@ -1,0 +1,3 @@
+Total execution time:00:01:05.4870108
+Total number of valid rows:8102
+Total number of skipped rows:3429
