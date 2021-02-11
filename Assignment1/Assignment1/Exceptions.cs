@@ -9,17 +9,7 @@ namespace Assignment1
     public class Exceptions
     {
 
-        static void Main()
-        {
-             var sw = OpenStream(@".\sampleFile.csv");
-            if (sw is null)
-                return;
-            sw.WriteLine("This is the first line.");
-            sw.WriteLine("This is the second line.");
-            sw.Close();
-        }
-
-        static StreamWriter OpenStream(string path)
+        public StreamWriter OpenStream(string path)
         {
             if (path is null)
             {
