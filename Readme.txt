@@ -3,3 +3,11 @@ My name is Taixuan Wan. You can also call me Ted. I am from China. I have worked
 In this course, the latest theories about software development in modern business environment are the topics I want to see most, because They might give me more insight thoughts about the job which I have worked for some years. I hope that it can bring something which I can hardly learn from the daily jobs, 
 
 I have more than 3 years working experience of JAVA and 2-year working experience of VB.    
+
+---------------------------------------------------------------------------------------------------------------------------------
+Assignment1
+
+Basic information about program
+Solution file: A00445618_MCDA5510\Assignment1\Assignment1.sln
+Output file: A00445618_MCDA5510\Assignment1\Output\output.csv
+Log file: A00445618_MCDA5510\Assignment1\logs\log.txt
