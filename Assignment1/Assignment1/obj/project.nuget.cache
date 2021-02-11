@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5ax3KlWgWwIeJ1g+yJ9V4GG4ocyipbDCbDGApvhLGeqUh10GMmLGTrxsNdKecknMPwQV25KrNAwS7MC9QHagMA==",
+  "dgSpecHash": "xm2Hx8WUVhnEsjRkLB8xzYRMgyzmOIhl2IpD4DkwQSCoD7AmZH7nldm2m4vixHl4RTjwnFRuOL4ayABs5vD/qQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tt_mo\\Documents\\@SMU\\5510 Software Developement in Business Environment\\GitRepos\\A00445618_MCDA5510\\Assignment1\\Assignment1\\Assignment1-DP.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tt_mo\\.nuget\\packages\\csvhelper\\22.1.2\\csvhelper.22.1.2.nupkg.sha512",
+    "C:\\Users\\tt_mo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\tt_mo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\tt_mo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\tt_mo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",

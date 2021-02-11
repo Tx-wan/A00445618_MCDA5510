@@ -1,0 +1,15 @@
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1-DP.exe
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1-DP.deps.json
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1-DP.runtimeconfig.json
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1-DP.runtimeconfig.dev.json
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1-DP.dll
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1-DP.pdb
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\CsvHelper.dll
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.csprojAssemblyReference.cache
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.AssemblyInfoInputs.cache
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.AssemblyInfo.cs
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.csproj.CoreCompileInputs.cache
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.csproj.CopyComplete
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.dll
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.pdb
+C:\Users\tt_mo\Documents\@SMU\5510 Software Developement in Business Environment\GitRepos\A00445618_MCDA5510\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1-DP.genruntimeconfig.cache

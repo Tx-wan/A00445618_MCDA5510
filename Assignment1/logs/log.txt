@@ -1,3 +1,15 @@
-Total execution time:00:01:05.4870108
-Total number of valid rows:8102
-Total number of skipped rows:3429
+Total execution time:00:30:32.6408801
+Total number of valid rows:200982
+Total number of skipped rows:81875
+Total execution time:00:01:23.9421503
+Total number of valid rows:200982
+Total number of skipped rows:81875
+Total execution time:00:04:09.9672649
+Total number of valid rows:200982
+Total number of skipped rows:81875
+Total excution time:0:4:12
+Total number of valid rows:200982
+Total number of skipped rows:81875
+Total excution time:0:4:1
+Total number of valid rows:200982
+Total number of skipped rows:81875
