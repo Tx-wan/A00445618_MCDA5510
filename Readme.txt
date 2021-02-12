@@ -5,7 +5,16 @@ In this course, the latest theories about software development in modern busines
 I have more than 3 years working experience of JAVA and 2-year working experience of VB.    
 
 ---------------------------------------------------------------------------------------------------------------------------------
-Assignment1：
+Assignment #1
+-------------------------------------------------------------------
+
+The goal of the assignment is to simply combine 3 of these programs into a single
+program that will recursively read a series of data files in CSV format and enter 
+them into a single file.
+
+The program must log the amount of time it takes to read the files in each directory 
+and the time it takes to write the files to a file using the logger.
+
 All program files are under folder Assignment1
 
 this program aims to read csv files in one directory and combine all lines into one csv file. It finished with the help of CSVHelper. 
