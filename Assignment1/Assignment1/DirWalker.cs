@@ -88,6 +88,34 @@ namespace Assignment1
             }
         }
 
+        public static string timeformat(TimeSpan ts)
+        {
+            String hour;
+            String minute;
+            String second;
+
+            String time;
+
+            if ((int)ts.Hours < 10)
+                hour = "0" + (int)ts.Hours;
+            else
+                hour = (int)ts.Hours+"";
+
+            if (ts.Minutes < 10)
+                minute = "0" + ts.Minutes;
+            else
+                minute = "" + ts.Minutes;
+
+            if (ts.Seconds < 10)
+                second = "0" + ts.Seconds;
+            else
+                second = "" + ts.Seconds;
+
+            time = hour + ":" + minute + ":" + second;
+
+            return time;
+        }
+
         public static void Main(String[] args)
         {
             Stopwatch sw = new Stopwatch();
@@ -116,7 +144,7 @@ namespace Assignment1
             TimeSpan duration = sw.Elapsed;
 
             //write logs
-            File.AppendAllText(logpath, "Total excution time: " + duration.ToString(@"hh\:mm\:ss") + "\n");
+            File.AppendAllText(logpath, "Total excution time: " + timeformat(duration) + "\n");
             File.AppendAllText(logpath, "Total number of valid rows:" + fw.getGoodLine()+"\n");
             File.AppendAllText(logpath, "Total number of skipped rows:" + fw.getBadLine()+"\n");
             
@@ -124,7 +152,7 @@ namespace Assignment1
             Console.WriteLine("good line" + fw.getGoodLine());
             Console.WriteLine("bad line" + fw.getBadLine());
            // Console.WriteLine("blank line" + fw.getblank());
-            Console.WriteLine("Total excution time: " +duration.ToString(@"hh\:mm\:ss"));
+            Console.WriteLine("Total excution time: " + timeformat(duration));
         }
 
     }
