@@ -135,7 +135,10 @@ namespace Assignment1
 
 
 
-            }catch(IOException ioe){
+            } catch (CsvHelper.MissingFieldException che) {
+                //      Console.WriteLine(che.StackTrace);
+                lines[1]++;
+            } catch (IOException ioe){
               //      Console.WriteLine(ioe.StackTrace);
              } catch(Exception e){
                 //    Console.WriteLine("exception" + e.StackTrace);
